@@ -36,11 +36,11 @@
     <ImplicitlyExpandDesignTimeFacades>false</ImplicitlyExpandDesignTimeFacades>
   </PropertyGroup>
   <ItemGroup>
-     <Compile Include="Assets\Scenes\camaracontroller.cs" />
-     <Compile Include="Assets\Scenes\attackscript.cs" />
-     <Compile Include="Assets\Scenes\EniemeControler.cs" />
-     <Compile Include="Assets\Scenes\playercontroler.cs" />
-     <Compile Include="Assets\Scenes\screenBound.cs" />
+     <Compile Include="Assets\Scenes\Scripts\attackscript.cs" />
+     <Compile Include="Assets\Scenes\Scripts\EniemeControler.cs" />
+     <Compile Include="Assets\Scenes\Scripts\playercontroler.cs" />
+     <Compile Include="Assets\Scenes\Scripts\screenBound.cs" />
+     <Compile Include="Assets\Scenes\Scripts\camaracontroller.cs" />
     <Reference Include="UnityEngine">
         <HintPath>C:/Program Files/Unity/Hub/Editor/2020.1.0f1/Editor/Data/Managed/UnityEngine/UnityEngine.dll</HintPath>
     </Reference>
